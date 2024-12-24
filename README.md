@@ -46,5 +46,5 @@ Follow these steps to set up the SecureMail project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/securemail.git
+   git clone [https://github.com/your-username/securemail.git](https://github.com/Thadkapally-Saikiran/Web-Scraping-Data-Extraction-and-Analysis.git)
    cd securemail
